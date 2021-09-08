@@ -11,4 +11,4 @@ Flask>=1.1.2
 mtcnn>=0.1.0
 lightgbm>=2.3.1
 dlib>=19.20.0
-git+https://github.com/ethandgoodhart/retinaface_cpu.git
+git+git://github.com/ethandgoodhart/retinaface_cpu@master#egg=retinaface
